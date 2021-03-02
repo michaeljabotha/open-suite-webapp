@@ -13,7 +13,11 @@
       </option>
       <option name="vmOptions" value="" />
     </ExternalSystemSettings>
-    <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-    <method v="2" />
+    <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+    <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+    <DebugAllEnabled>false</DebugAllEnabled>
+    <method v="2">
+      <option name="Gradle.BeforeRunTask" enabled="true" tasks="" externalProjectPath="$PROJECT_DIR$" vmOptions="" scriptParameters="clean" />
+    </method>
   </configuration>
 </component>
